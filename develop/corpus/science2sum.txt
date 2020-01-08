@@ -1,0 +1,3 @@
+A few months ago, Sam Schmidt drove more than 150 mph in the semiautonomous Arrow SAM Car during demonstration laps at the Indy 500. Now, he's been granted the nation's first autonomous vehicle-restricted driver's license by the state of Nevada. The vehicle is not entirely autonomous; Schmidt does control the car, a modified Corvette Z06, using his voice, head, and breath to steer, accelerate, and brake. 
+As Jude Hurin of the Nevada DMV said in a statement:
+At this early stage, autonomous technology can seem gimmicky, but for a lot of people, it could prove to be a game changer. 

@@ -1,0 +1,19 @@
+China's taken another leap forward, with the launch of its largest ever rocket, 
+the Long March 5 ("Chang Zheng 5" in Chinese) on November 3.
+With a fuselage skin only 3 mm 
+ thick, the LM-5's safety features include doubly redundant critical systems, such as 
+ electronic controls. LM-5's rocket motors burn liquid oxygen and liquid hydrogen (LOX/LH),
+  with only water as a byproduct, making it very environmentally friendly compared to 
+  previous Long March rockets, which used dinitrogen tetroxide and the carcinogenic 
+  unsymmetrical dimethylhydrazine.
+The LM-5 has a payload faring diameter of 5.2 meters, enabling it to carry much wider 
+cargos than smaller previous Chinese rockets. This is critical for payloads like permanent
+ space station modules and large diameter spy satellites. 
+ Objects in GEO 
+ are high enough to stay over the same geographical location, making them critical for 
+ activities which require continuous line of sight to specific areas, like communications 
+ and navigation.
+The LM-5 has a long mission manifest in the years to come.More heavy 
+ lifting will follow, for the 20-ton modules of the Chinese permanent space station. 
+ Potential future missions after that include launching large spy satellites, and even a 
+ possible manned lunar mission involving multiple LM-5s.

@@ -1,0 +1,4 @@
+Psychology has a replication problem. Since 2010, scientists conducting replications of hundreds of studies have discovered that a dismal amount of published results can be reproduced. This realization by psychologists has come to be known as "replication crisis".
+Fast forward to July of this year when Martin Hagger and Nikos Chatzisarantis published the results of their multi-lab effort to replicate the results of a seminal ego-depletion study. The verdict? Over two thousand participants across twenty-three labs were not able to produce a statistically significant result. 
+Reproducibility problems were arising wherever they were studied, and they all pointed to various systematic problems and creeping biases within the publishing process itself.
+

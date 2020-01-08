@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block analysis %}
+<div class="radarChart col-md-6"></div>
+        <div class="col-md-6" style="margin:10%">
+
+                <div class="card">
+
+  <div class="card-body">
+ {% for val in values %}
+    <p class="card-text">{{val}}</p>
+{% endfor %}
+
+
+            </div>
+            </div>
+    <div class="pull-right col-md-12" >
+        <form name="form" action=" http://127.0.0.1:5000/" method="POST">
+    <button type="submit" style="margin-left: 30%; margin-top: 20%" class="btn pull-right btn-primary">Click Me to Summarise Blogs</button>
+        </form>
+        </div>
+        </div>
+    <script src ="{{ url_for('static', filename='radarChart.js') }}"></script>
+		<script>
+
+      /* Radar chart design created by Nadieh Bremer - VisualCinnamon.com */
+
+			//////////////////////////////////////////////////////////////
+			//////////////////////// Set-Up //////////////////////////////
+			//////////////////////////////////////////////////////////////
+
+			var margin = {top: 100, right: 100, bottom: 100, left: 100},
+				width = Math.min(700, window.innerWidth - 10) - margin.left - margin.right,
+                legendPosition = {x: 25, y: 25},
+				height = Math.min(width, window.innerHeight - margin.top - margin.bottom - 20);
+
+			//////////////////////////////////////////////////////////////
+			////////////////////////// Data //////////////////////////////
+			//////////////////////////////////////////////////////////////
+            var data = {{ data|safe }};
+            console.log(data);
+
+
+
+			//////////////////////////////////////////////////////////////
+			//////////////////// Draw the Chart //////////////////////////
+			//////////////////////////////////////////////////////////////
+
+			var color = d3.scale.ordinal()
+				.range(["#EDC951","#CC333F","#00A0B0","#15AB02","#5802A3"]);
+
+			var radarChartOptions = {
+			  w: width,
+			  h: height,
+			  margin: margin,
+			  legendPosition: legendPosition,
+			  maxValue: 0.5,
+			  wrapWidth: 60,
+			  levels: 5,
+			  roundStrokes: true,
+			  color: color,
+			  axisName: "axis",
+			  areaName: "tech",
+			  value: "value"
+			};
+
+			//Load the data and Call function to draw the Radar chart
+			{#d3.json({{data|safe}}, function(error, data){#}
+				RadarChart(".radarChart", data, radarChartOptions);
+				</script>
+
+{% endblock %}

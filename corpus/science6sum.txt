@@ -1,0 +1,11 @@
+At the moment, over one-third of Americans are considered to be obese and the numbers continue to rise.
+
+Over the years, one central factor has come to light with respect to this disease: inflammation. The link between inflammation and fat has been researched for well over a decade and some interesting theories have come about. When chronic inflammation occurs, fat levels increase in order for the immune system to remain balanced and ready to act when needed. 
+But along with those harmony-inducing cells are significantly high numbers of natural killer cells, better known as NK cells. These are responsible for defending our bodies against several threats including cancer. 
+During obesity, NK appear to act as a training coach for future challenges from infectious diseases and cancers. The cells act as if they are at war and maintain inflammation in the fat tissue. 
+They have discovered one of the candidates may be the lynchpin for the change in NK cells. The results offer a possible new path for obesity management and the potential to reverse the accumulation of fat tissue.
+
+The team focused on the molecule Interleukin-15, abbreviated as IL-15. This chemical is known to signal NK cells and improve their survival during inflammation. 
+The procedure was rather straightforward in that two sets of mice were fed a diet known to cause obesity over 4 months. One set was normal while the other could not produce IL-15. As expected, the mice lacking the protein did not gain as much weight. As expected, the addition of the molecule reduced the ability of cells to undergo thermogenesis, which is required for fat reduction.
+
+

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block blogtosum %}
+<form name="form" action=" http://127.0.0.1:5000/summary" method="POST">
+  <div class="form-group">
+    <label class= 'label h1'for="topic">Enter Blog Here</label>
+      <textarea type="text" class="form-control" id="Query" aria-describedby="emailHelp" placeholder="Show me less..." name="topic"></textarea>
+      <br>
+      <label for="tech">Select Technique</label>
+      <select name="tech">
+  <option value="lsa">lsa</option>
+  <option value="luhn">luhn</option>
+  <option value="klsum">klsum</option>
+  <option value="lexrank">lex rank</option>
+  <option value="textrank">text rank</option>
+</select>
+    </div>
+
+  <button type="submit" class="btn btn-primary">Yeet!</button>
+
+</form>
+{% endblock %}

@@ -1,0 +1,21 @@
+There’s little doubt the United States has an obesity problem. At the moment, over one-third of Americans are considered to be obese and the numbers continue to rise. Public health officials have been trying to figure out how to combat this growing concern yet there appears to be few answers.
+
+Most people may believe obesity is simply the result of eating too much or not choosing healthy food choices. While these factors do play a role, inside the body, the situation is far more complex. Researchers have been examining the molecular mechanisms of obesity for years and identified a variety of reasons for significant weight gain.
+Over the years, one central factor has come to light with respect to this disease: inflammation. This branch of the immune system is designed to respond to cellular injury in the body. It’s especially important in fighting off infection and healing wounds. However, these are acute forms of inflammation. When this condition becomes chronic, usually due to a lack of immune balance, the body undergoes several changes. One of them is a more rapid accumulation of fat.
+
+The link between inflammation and fat has been researched for well over a decade and some interesting theories have come about. One of the more intriguing suggests fat is actually an ancestral immune organ. When chronic inflammation occurs, fat levels increase in order for the immune system to remain balanced and ready to act when needed. The notion is not without merit as fatty tissue does have quite a number of immune cells, including those responsible for maintaining a balanced immunological state.
+
+But along with those harmony-inducing cells are significantly high numbers of natural killer cells, better known as NK cells. These are responsible for defending our bodies against several threats including cancer. The cells also help to drive inflammation through the production of various molecules.
+
+During obesity, NK appear to act as a training coach for future challenges from infectious diseases and cancers. The cells act as if they are at war and maintain inflammation in the fat tissue. This happens due to a change in the way the cells behaves at the molecular level. This continues a vicious cycle of fat cell production and as a result, increased weight.
+
+What exactly causes NK cells to change from sentinel to war game moderator in fat tissues has been an enigma. What is known is that these cells can be brought back to normal when transplanted into a healthy body. This has led to a list of possible suspects but none have gained the credibility needed to move ahead with treatments.
+Now there may be a path forward thanks to the work of a group of Canadian researchers. They have discovered one of the candidates may be the lynchpin for the change in NK cells. The results offer a possible new path for obesity management and the potential to reverse the accumulation of fat tissue.
+
+The team focused on the molecule Interleukin-15, abbreviated as IL-15. This chemical is known to signal NK cells and improve their survival during inflammation. The addition of IL-15 also can maintain inflammation through the production of chemicals known to activate other immune cells.
+
+The first stage of the work was performed in mice in order to best understand the molecular mechanisms. The procedure was rather straightforward in that two sets of mice were fed a diet known to cause obesity over 4 months. One set was normal while the other could not produce IL-15. As expected, the mice lacking the protein did not gain as much weight.
+
+While this revealed the importance of IL-15, the mechanism behind this change in weight gain was still unidentified. The team examined factors known to be involved in obesity such as blood glucose levels, oxygen consumption, and thermogenesis. Sure enough, they found a lack of protein kept all these factors at normal levels compared to the mice with IL-15.
+
+The implication of IL-15 as a lynchpin for obesity onset was gaining credence however the studies were done in mice, not humans. The team wished to provide at least some human perspective so they performed experiments on human fat tissue biopsies to determine the effect of IL-15. As expected, the addition of the molecule reduced the ability of cells to undergo thermogenesis, which is required for fat reduction.

@@ -1,0 +1,56 @@
+Of the 1,450 or so human pathogens, only a few have the ability to rapidly cause disease 
+and kill. While most are exotic and rarely encountered by Americans, such as Ebola virus 
+and plague bacteria, one on this list is commonly found in the US and more importantly, 
+on up to one-third of its residents. It’s known as Staphylococcus aureus - commonly 
+referred to as Staph.
+
+Normally, Staph is a common member of our microbial population. Our bodies can safely 
+co-exist with this bacterium as it poses no immediate threat. However, if the bacterium 
+can find its way into tissues and the bloodstream, troubles are likely to occur. These 
+include diseases such as acne, mastitis, impetigo, and the life-threatening conditions 
+known as toxic shock syndrome and sepsis. Making the situation worse is the potential for 
+antibiotic resistance, which can hinder treatment and increase the chances for unwanted 
+outcomes.
+
+For years, researchers have been learning about how Staph causes infection. The bacterium 
+has a variety of mechanisms to injure the human body. Most of these chemicals arise quickly
+ and have a drastic impact on the way our ability to function.
+
+The bacterium also appears to have an ability to evade the immune system.
+This hinders the body’s ability to prevent the bacterium from spreading and worsening the 
+conditions of disease. Most of these appear to involve blocking the ability of immune 
+cells from attacking the bacterium and killing it. Yet, one of these mechanisms involves
+ protection against our most potent line of defense: antibodies.
+
+How exactly the bacterium manages to accomplish this task hasn’t been entirely figured out.
+ But the answer now may be at hand thanks to an American team of researchers. They have 
+ identified how the bacteria keep those antibodies at bay and prevent this branch of the 
+ immune system from being effective. The answer lies in the ability of the pathogen to 
+ stall the effects of the antibody-producing B-cell.
+The team worked with both Staph and another member of the genus, Staphylococcus epidermidis,
+ which also may be called Epi. This species made for a great control as it is a member of
+  our natural human microbial flora, and usually harmless. This allowed the researchers 
+  to identify any differences between the two in relation to the immune response.
+
+The process was relatively straightforward. The team acquired blood samples from individuals
+ for use in laboratory tests. In the lab, either Staph or Epi was used to ‘infect’ the blood.
+  The effects of the two on immune function were then examined. The hope was that Staph 
+  would somehow act differently than Epi and shed light on the mechanism of evasion.
+
+When the results came back, the researchers had found an incredibly significant difference
+ between the two species. Epi bacteria seemed to be controlled quite easily as it was 
+ tightly bound to B-cells. In contrast, Staph seemed to be free floating in the blood 
+ without any worry of being nabbed. In essence, Epi was quickly apprehended and jailed 
+ while Staph continued to be on the lam.
+
+For the researchers, this revelation suggested Staph was producing something allowing it
+ to remain free. To find it, a series of mutation experiments were performed to find the 
+ one gene responsible for this action. Using a combination of UV light and also genetic
+  mutation, they eventually found the culprit. But the source wasn’t a single gene or 
+  protein. Instead, it was an entire system.
+
+The culprit system was a group of genes known as S. aureus exoprotein expression 
+(abbreviated to SaeR/S). This was not a surprise as this collection produced proteins
+ necessary for proper immune evasion. But for this study, the researchers wanted to 
+ venture even deeper into the system to uncover which of the molecules arising from this system were involved.
+
