@@ -10,7 +10,7 @@ Jinja2==2.10.3
 lxml==4.4.1
 MarkupSafe==1.1.1
 nltk==3.4.5
-numpy==1.17.3
+numpy==1.22.0
 pycountry==19.8.18
 requests==2.22.0
 six==1.12.0
